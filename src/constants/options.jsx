@@ -38,7 +38,7 @@ export const SelectBudgetOptions=[
     },
     {
         id:2,
-        title:'Moderate',
+        title:'Affordable',
         desc:'Keep cost on the average side',
         icon:'💰'
     },
