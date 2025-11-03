@@ -48,6 +48,7 @@ const DestinationInput = ({ onChange }) => {
       <input
         type="text"
         id="destination"
+        autocomplete="off"
         value={query}
         onChange={handleInputChange}
         placeholder="Enter a city, landmark, or address"
